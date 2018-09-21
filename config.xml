@@ -2,7 +2,7 @@
 <widget id="id.ac.uniku.eclass" version="18092018" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>EClass UNIKU</name>
     <description>Elearning Class Universitas Kuningan</description>
-    <author email="pusinfo@uniku.ac.id" href="https://pusinfo.uniku.ac.id">Moodle Mobile team</author>
+    <author email="pusinfo@uniku.ac.id" href="https://pusinfo.uniku.ac.id">Pusat Sistem Informasi Universitas Kuningan</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
